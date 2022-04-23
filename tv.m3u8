@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="12 monos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FNBIldJCZYlQha2ZchPK725JrT.jpg" group-title="4K UHD",12 monos (1995)
+#EXTINF:-1, Disney
+http://201.111.180.253:8000/play/a05l/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,  Canal Claro
+http://201.111.180.253:8000/play/a01x/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, Universal
+http://200.24.132.99:8000/play/a01g?PlaylistM3UCL
+#EXTINF:-1, Fox
+http://190.4.0.200:8000/play/a03e/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, Warner
+http://200.24.132.99:8000/play/a01z?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FNBIldJCZYlQha2ZchPK725JrT.jpg",12 Monos (1995)
 http://smartstalker-raid-play.com:8080/movie/marcos1/marcos1/74477.mkv
 #EXTINF:0,ButacaTV
 https://veranda-butacatv-1-es.samsung.wurl.tv/2000.m3u8
